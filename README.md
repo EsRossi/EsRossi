@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 **Olá! Eu sou Gabriel Rossi (@EsRossi)**
 
-<!--
-**EsRossi/EsRossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 **Estudante de Engenharia de Software**, entusiasta de tecnologia e suas soluções práticas.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❗ **Principais interesses:**
+
+* Desenvolvimento Full-Stack
+* Programação Orientada a Objetos
+* Interação Humano-Computador
+* Projetos inovadores de Software e Hardware
+
+
+💻 **Atualmente estudando e trabalhando com:**
+
+* JavaScript e Java
+* Python, SQL e PHP
+
+
+🛠️ **Projetos em andamento:**
+
+* **Versatto ERP**: Sistema de gestão empresarial focado no controle de vendas, serviços prestados e gestão financeira.
+
+
+✅ **Disponível para colaborações em projetos na área de tecnologia.**
+
+📫 **Contato:** [gabrielrossibusa@gmail.com](mailto:gabrielrossibusa@gmail.com)
