@@ -19,7 +19,7 @@
 🛠️ **Projetos em andamento:**
 
 * **Versatto ERP**: Sistema de gestão empresarial focado no controle de vendas, serviços prestados e gestão financeira.
-* * **Projeto L.A.I.N.**: IA autônoma integrada a um sistema Raspberry Pi, com capacidade de locomoção, mapeamento de ambientes e intereção com sistemas externos
+* **Projeto L.A.I.N.**: IA autônoma integrada a um sistema Raspberry Pi, com capacidade de locomoção, mapeamento de ambientes e intereção com sistemas externos
 
 
 ✅ **Disponível para colaborações em projetos na área de tecnologia.**
